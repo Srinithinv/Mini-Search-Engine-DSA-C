@@ -1,0 +1,3 @@
+data structures are very important in computer science
+data helps in decision making
+algorithms and data work together

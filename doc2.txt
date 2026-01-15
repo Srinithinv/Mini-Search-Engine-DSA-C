@@ -1,0 +1,3 @@
+search engines use data and algorithms
+data indexing improves search speed
+computer systems depend on good data structures
